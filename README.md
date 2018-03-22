@@ -17,6 +17,9 @@
 * Press the button COLOR to test the RGB camera.
 
 
+
 ## Examples
+
+These examples run on the [alpha p5.js editor](https://alpha.editor.p5js.org/)
 
 * tutorial-kinectron-example0: right hand Z controls background color. [live link](http://alpha.editor.p5js.org/montoyamoraga/sketches/BkwAqUb9G)
