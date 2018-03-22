@@ -47,6 +47,8 @@ To run these examples:
 
 * tutorial-kinectron-example0: right hand Z controls background color. [live link](http://alpha.editor.p5js.org/montoyamoraga/sketches/BkwAqUb9G)
 
+[https://alpha.editor.p5js.org/montoyamoraga/sketches/SkykGD-cG](https://alpha.editor.p5js.org/montoyamoraga/sketches/SkykGD-cG)
+
 ## List of joints you can use
 
 * kinectron.SPINEBASE
