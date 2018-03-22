@@ -37,7 +37,6 @@ If you are starting from scratch, you need to do two things to make these exampl
 * Add to the project the file kinectron.bundle.js
 * Link it from the html file.
 
-
 ## List of examples
 
 To run these examples:
@@ -50,6 +49,31 @@ To run these examples:
 
 ## List of joints you can use
 
+* kinectron.SPINEBASE
+* kinectron.SPINEMID
+* kinectron.NECK
+* kinectron.HEAD
+* kinectron.SHOULDERLEFT
+* kinectron.ELBOWLEFT
+* kinectron.WRISTLEFT
+* kinectron.HANDLEFT
+* kinectron.SHOULDERRIGHT
+* kinectron.ELBOWRIGHT
+* kinectron.WRISTRIGHT
+* kinectron.HANDRIGHT
+* kinectron.HIPLEFT
+* kinectron.KNEELEFT
+* kinectron.ANKLELEFT
+* kinectron.FOOTLEFT
+* kinectron.HIPRIGHT
+* kinectron.KNEERIGHT
+* kinectron.ANKLERIGHT
+* kinectron.FOOTRIGHT
+* kinectron.SPINESHOULDER
+* kinectron.HANDTIPLEFT
+* kinectron.THUMBLEFT
+* kinectron.HANDTIPRIGHT
+* kinectron.THUMBRIGHT
 
 ## How to copy code from GitHub
 
