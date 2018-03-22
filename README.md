@@ -15,3 +15,5 @@
 * Execute the Kinectron app.
 * You should see an IP Address in orange.
 * Press the button COLOR to test the RGB camera.
+
+[http://alpha.editor.p5js.org/montoyamoraga/sketches/rk_3SQCnb](http://alpha.editor.p5js.org/montoyamoraga/sketches/rk_3SQCnb)
