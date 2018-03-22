@@ -2,21 +2,29 @@
 
 ## Materials
 
-* Windows computer
-* Another computer
+* Windows computer connected to WiFi.
+* Another computer connected to the same WiFi.
 * Kinect One aka Kinect v2, the boxy one.
+* Optional: if the WiFi has a firewall, setup a router with WiFi.
 
-## Steps
+## How to setup Kinectron
 
-* Install the Kinect SDK on the Windows Computer.
-* Download Kinectron from github.com/kinectron/kinectron.
-* Unzip the file to the Desktop.
-* Connect Kinect to the Windows computer.
-* Execute the Kinectron app.
-* You should see an IP Address in orange.
+### Setup the Kinectron server
+
+The Kinectron server is a Windows computer connected to WiFi and a Kinect that streams data to Kinectron clients.
+
+* Install the Kinect SDK on the Windows computer.
+* Download Kinectron from GitHub [https://github.com/kinectron/kinectron/](https://github.com/kinectron/kinectron/).
+* To download, go to [Releases](https://github.com/kinectron/kinectron/releases) and click on [Kinectron-0.0.5.0-win32-x64.zip](Kinectron-0.0.5.0-win32-x64.zip).
+* Unzip the file to the Desktop of the Windows computer.
+* Connect the Kinect to the Windows computer.
+* Execute the Kinectron app on the Windows computer.
+* You should see an IP Address in orange on the Kinectron app.
 * Press the button COLOR to test the RGB camera.
 
+### Setup your Kinectron client
 
+The Kinectron client is a computer that connects to the server and asks for information, aka, your computer.
 
 ## Examples instructions
 
