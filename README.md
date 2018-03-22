@@ -20,5 +20,3 @@
 ## Examples
 
 * tutorial-kinectron-example0: right hand Z controls background color. [live link](http://alpha.editor.p5js.org/montoyamoraga/sketches/BkwAqUb9G)
-
-[http://alpha.editor.p5js.org/montoyamoraga/sketches/rk_3SQCnb](http://alpha.editor.p5js.org/montoyamoraga/sketches/rk_3SQCnb)
