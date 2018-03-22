@@ -28,14 +28,22 @@ The Kinectron client is a computer that connects to the server and asks for info
 
 ## Examples instructions
 
-These examples run on the [alpha p5.js editor](https://alpha.editor.p5js.org/).
+These examples run on the [alpha p5.js editor](https://alpha.editor.p5js.org/). Sign up with your e-mail or create a GitHub account and login with that.
 
 If you are starting from scratch, you need to do two things to make these examples run:
 
 * Add to the project the file kinectron.bundle.js
 * Link it from the html file.
 
+
 ## List of examples
+
+To run these examples:
+* Click on the live link
+* Modify the IP address to match the one on the Kinectron client you are using. An IP Address will look like "w.x.y.z", where each letter corresponds to a number between 0 and 255. You have to separate the four numbers with periods and put everything between "".
+* Press the Play button to execute.
+* If it works it should say on the Console: "My peer ID is: ..."
+
 
 * tutorial-kinectron-example0: right hand Z controls background color. [live link](http://alpha.editor.p5js.org/montoyamoraga/sketches/BkwAqUb9G)
 
