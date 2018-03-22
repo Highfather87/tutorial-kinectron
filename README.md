@@ -20,6 +20,17 @@
 
 ## Examples
 
-These examples run on the [alpha p5.js editor](https://alpha.editor.p5js.org/)
+These examples run on the [alpha p5.js editor](https://alpha.editor.p5js.org/).
+
+If you are starting from scratch, you need to do two things to make these examples run:
+
+## How to copy code from GitHub
+
+* Go to the file you want to copy.
+* Press "Raw" to see the code without format.
+* Select all with Command-a on a Mac or Ctrl-a on a Windows.
+* Copy everything with Command-c on a Mac or Ctrl-c on a Windows.
+* Paste with Command-v on a Mac or Ctrl-v on a Windows.
+
 
 * tutorial-kinectron-example0: right hand Z controls background color. [live link](http://alpha.editor.p5js.org/montoyamoraga/sketches/BkwAqUb9G)
