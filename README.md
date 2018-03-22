@@ -2,12 +2,14 @@
 
 ## Materials
 
-* Windows computer connected to WiFi.
+* Windows computer connected to WiFi and with Kinectron installed.
 * Another computer connected to the same WiFi.
 * Kinect One aka Kinect v2, the boxy one.
 * Optional: if the WiFi has a firewall, setup a router with WiFi.
 
 ## How to setup Kinectron
+
+[Kinectron](https://kinectron.github.io/) is a software library that allows one Windows computer to stream data from a Kinect to multiple computers at the same time.
 
 ### Setup the Kinectron server
 
@@ -44,8 +46,9 @@ To run these examples:
 * Press the Play button to execute.
 * If it works it should say on the Console: "My peer ID is: ..."
 
-
 * tutorial-kinectron-example0: right hand Z controls background color. [live link](http://alpha.editor.p5js.org/montoyamoraga/sketches/BkwAqUb9G)
+
+## List of joints you can use
 
 
 ## How to copy code from GitHub
