@@ -75,6 +75,12 @@ To run these examples:
 * kinectron.HANDTIPRIGHT
 * kinectron.THUMBRIGHT
 
+## List of cameras you can use
+
+* cameraX: horizontal, left and right.
+* cameraY: vertical, up and down.
+* cameraZ: depth, towards the Kinect.
+
 ## How to copy code from GitHub
 
 * Go to the file you want to copy.
